@@ -12,7 +12,7 @@ shape = "Octahedron"; //["Octahedron":Octahedron, "Sphere":Sphere, "Cube":Cube]
 side_length = 8;
 
 //Controls the size of seed shapes
-overlap = 1; //[0.5:0.5:10]
+overlap = 2.25; //[0.5:0.5:10]
 
 iterations = 2; //[1:8]
 
